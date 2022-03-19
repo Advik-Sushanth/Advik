@@ -1,2 +1,1 @@
-# Advik
-Procedural Landmass Generation
+Hello, this is a project that I made for a game that I am currently developing - Call Of The Wild. I have been developing it for around 4 - 5 months so far (with breaks i.e., like around 1 month or 2 weeks). It is not yet complete but will hopefully be near completion or at least at it's ALPHA phase near mid June / around start of July. Thanks for viewing this and I hope this helped!
